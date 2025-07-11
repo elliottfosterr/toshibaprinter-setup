@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://setupprinter.net/">
+
 How to Set Up Toshiba Printer?: A Complete Guide 😊
 ============================================
 .
